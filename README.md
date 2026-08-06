@@ -493,17 +493,17 @@ buscar_por_titulo <- function(palavra) {
 }
 ```
 
-### Identidade visual: o logo
+### Identidade visual: a logomarca 
 
-Para dar identidade visual ao pacote, criei um logo hexagonal (padrão na comunidade **R**) com referência direta a Machado de Assis. Utilizei os óculos *pince-nez*, um dos ícones mais reconhecidos do autor, como elemento central do *design*.
+Para dar identidade visual ao pacote, criei uma logomarca hexagonal (padrão na comunidade **R**) com referência direta a Machado de Assis. Utilizei os óculos *pince-nez*, um dos ícones mais reconhecidos do autor, como elemento central do *design*.
 
-O logo foi incorporado ao pacote seguindo a convenção da comunidade:
+A logomarca foi incorporada ao pacote seguindo a convenção da comunidade:
 
 · salvo em man/figures/logo.png;
 · referenciado no README.md com alinhamento à esquerda;
-· incluído automaticamente no site de documentação.
+· incluída automaticamente no site de documentação.
 
-A criação do logo, através do agente autônomo **Manus**,  foi uma etapa importante para tornar o pacote mais profissional e facilmente reconhecível pela comunidade.
+A criação da logomarca, através do agente autônomo **Manus**,  foi uma etapa importante para tornar o pacote mais profissional e facilmente reconhecível pela comunidade.
 
 ### Preenchemos o arquivo *DESCRIPTION*
 
