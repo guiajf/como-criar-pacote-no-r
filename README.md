@@ -500,7 +500,9 @@ Para dar identidade visual ao pacote, criei uma logomarca hexagonal (padrão na 
 A logomarca foi incorporada ao pacote seguindo a convenção da comunidade:
 
 · salvo em man/figures/logo.png;
+
 · referenciado no README.md com alinhamento à esquerda;
+
 · incluída automaticamente no site de documentação.
 
 A criação da logomarca foi uma etapa importante para tornar o pacote mais profissional e facilmente reconhecível pela comunidade. Para esse propósito, contamos com a assistência do Agente autônomo **Manus**, ao qual submetemos o seguinte *prompt*: "Crie um logo hexagonal padrão R com fundo violeta exibindo a label "machador" sob o pincenez usado por Machado de Assis."
