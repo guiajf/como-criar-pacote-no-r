@@ -505,7 +505,7 @@ A logomarca foi incorporada ao pacote seguindo a convenção da comunidade:
 
 · incluída automaticamente no site de documentação.
 
-A criação da logomarca foi uma etapa importante para tornar o pacote mais profissional e facilmente reconhecível pela comunidade. Para esse propósito, contamos com a assistência do Agente autônomo **Manus**, ao qual submetemos o seguinte *prompt*: "Crie um logo hexagonal padrão R com fundo violeta exibindo a label "machador" sob o pincenez usado por Machado de Assis."
+A criação da logomarca foi uma etapa importante para tornar o pacote mais profissional e facilmente reconhecível pela comunidade. Para esse propósito, contamos com a assistência do Agente autônomo **Manus**, ao qual submetemos o seguinte *prompt*: "Crie um logo hexagonal padrão **R** com fundo violeta exibindo a label "machador" sob o *pincenez* usado por Machado de Assis."
 
 ### Preenchemos o arquivo *DESCRIPTION*
 
